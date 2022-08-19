@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.formulario {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.formulario h2 {
+  padding-top: 50px;
+}
+
+.formulario .checkbox {
+  font-weight: 400;
+}
+
+.formulario input[type="password"] {
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  color:red
+}
